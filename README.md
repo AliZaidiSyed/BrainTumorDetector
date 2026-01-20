@@ -12,8 +12,8 @@ A MATLAB-based Brain Tumor Detection system that analyses MRI brain images using
 
 ## Dataset Structure
 brain_tumor_dataset/
-├── yes/ (MRI images with tumour)
-└── no/ (MRI images without tumour)
+ yes/ (MRI images with tumour)
+no/ (MRI images without tumour)
 
 ## Screenshot
 <img width="940" height="662" alt="image" src="https://github.com/user-attachments/assets/f5c4f111-5988-4266-9742-f70fe37808e6" />
